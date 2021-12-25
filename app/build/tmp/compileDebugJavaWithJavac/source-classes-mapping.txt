@@ -1,0 +1,5 @@
+com/pra/birddemo/MainActivity.java
+ com.pra.birddemo.MainActivity
+ com.pra.birddemo.MainActivity$1
+com/pra/birddemo/BuildConfig.java
+ com.pra.birddemo.BuildConfig
